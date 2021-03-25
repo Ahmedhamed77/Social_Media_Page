@@ -47,9 +47,4 @@
 
 This application/site was created as a training Project.
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- FLEXBOX
 
