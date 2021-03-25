@@ -11,7 +11,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://ahmedhamed77.github.io/Social_Media_Page/">
+    <a href="https://ahmedhamed77.github.io/ajaaaaax/">
       Solution
     </a>
   </h3>
@@ -31,7 +31,7 @@
 ## Overview
 
 
-- Here, I create a sample responsive page , almost like a Social media layout.
+- Here, I create a web page that fetchs a list of data from an API and search over this data with js.
 
 ### Built With
 
@@ -39,12 +39,18 @@
 
 - HTML
 - CSS
+- javascript
+- ajax
 
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a training Project.
+- fetch data
+- showing the data once the web page loaded 
+- listing the data
+- search on the data 
+- highlight the searched data
 
 
