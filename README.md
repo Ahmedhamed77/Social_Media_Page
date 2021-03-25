@@ -13,7 +13,7 @@
       Solution
     </a>
   </h3>
-   
+</div>
    
 <!-- TABLE OF CONTENTS -->
 
