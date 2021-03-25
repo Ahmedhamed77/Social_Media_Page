@@ -2,6 +2,7 @@
 <div align="center">
    Solution for a Responsive web Page Task.
 </div>
+
 <div align="center">
   <h3>
     <a href="https://github.com/Ahmedhamed77/Social_Media_Page">
@@ -12,10 +13,9 @@
       Solution
     </a>
   </h3>
-
+   
 
 ## Overview
-
 
 - Here, I create a sample responsive page , almost like a Social media layout.
 
@@ -32,4 +32,3 @@
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a training Project.
-
