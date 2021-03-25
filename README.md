@@ -14,9 +14,21 @@
     </a>
   </h3>
    
+   
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [Acknowledgements](#acknowledgements)
+
+<!-- OVERVIEW -->
 
 ## Overview
 
+- 
 - Here, I create a sample responsive page , almost like a Social media layout.
 
 ### Built With
@@ -27,8 +39,12 @@
 - CSS
 
 
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a training Project.
+
+
+
